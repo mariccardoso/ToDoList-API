@@ -1,0 +1,18 @@
+{
+  "name": "listatarefas-api",
+  "version": "1.0.0",
+  "description": "API para gerenciar uma Lista de Tarefas (To-do List) com Node.Js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.Js",
+    "SENAI",
+    "BackEnd",
+    "JavaScript",
+    "Dev"
+  ],
+  "author": "Mariana Cardoso",
+  "license": "MIT"
+}
